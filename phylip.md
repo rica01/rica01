@@ -60,12 +60,12 @@ When writing a PHYLIP-formatted file, scikit-bio will split up each sequence int
 
 
 
-References
-[R165]	http://evolution.genetics.washington.edu/phylip.html
-[R166]	RAxML Version 8: A tool for Phylogenetic Analysis and Post-Analysis of Large Phylogenies”. In Bioinformatics, 2014
-[R167]	http://evolution.genetics.washington.edu/phylip/doc/sequence.html
-[R168]	http://www.phylo.org/tools/obsolete/phylip.html
-[R169]	http://www.bioperl.org/wiki/PHYLIP_multiple_alignment_format
-Back to top
+# References
+* [R165]	http://evolution.genetics.washington.edu/phylip.html
+* [R166]	RAxML Version 8: A tool for Phylogenetic Analysis and Post-Analysis of Large Phylogenies”. In Bioinformatics, 2014
+* [R167]	http://evolution.genetics.washington.edu/phylip/doc/sequence.html
+* [R168]	http://www.phylo.org/tools/obsolete/phylip.html
+* [R169]	http://www.bioperl.org/wiki/PHYLIP_multiple_alignment_format
+
 © Copyright 2014--, scikit-bio development team.
-Created using Sphinx 1.2.2.
+
